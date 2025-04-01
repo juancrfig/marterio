@@ -1,6 +1,6 @@
 # Marterio: A Martian Colony Adventure   
 <div align="center">
-  <img src="./assets/images/marterio_wallpaper.jpg" alt="Marterio's Wallpaper" width="1408">
+  <img src="./assets/images/marterio_background.png" alt="Marterio's Wallpaper" width="1408">
 </div>
 
 Embark on a journey to the red planet in Marterio, a colony management and exploration game that blends a cozy charm gameplay with the unpredictable wilds of Mars. 
